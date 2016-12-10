@@ -1,0 +1,8 @@
+C:\Users\Linguistico_09\Desktop\Tassonomie2.0\Tassonomie2.0\bin\Debug\Tassonomie2.0.exe.config
+C:\Users\Linguistico_09\Desktop\Tassonomie2.0\Tassonomie2.0\obj\Debug\Tassonomie2.0.csprojResolveAssemblyReference.cache
+D:\informatica\Tassonomie2.0\Tassonomie2.0\bin\Debug\Tassonomie2.0.exe.config
+D:\informatica\Tassonomie2.0\Tassonomie2.0\obj\Debug\Tassonomie2.0.csprojResolveAssemblyReference.cache
+D:\informatica\Tassonomie2.0\Tassonomie2.0\bin\Debug\Tassonomie2.0.exe
+D:\informatica\Tassonomie2.0\Tassonomie2.0\bin\Debug\Tassonomie2.0.pdb
+D:\informatica\Tassonomie2.0\Tassonomie2.0\obj\Debug\Tassonomie2.0.exe
+D:\informatica\Tassonomie2.0\Tassonomie2.0\obj\Debug\Tassonomie2.0.pdb
